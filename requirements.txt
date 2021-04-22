@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+requests
+tweepy
+numpy
+yfinance
+datetime
+matplotlib
+pybase64
+importlib
+plotly
+praw
+beautifulsoup4
+pandas-datareader
